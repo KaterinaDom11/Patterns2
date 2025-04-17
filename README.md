@@ -1,1 +1,1 @@
-# Project Sample
+# Project Sample [![Java CI with Gradle](https://github.com/KaterinaDom11/Patterns2/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/KaterinaDom11/Patterns2/actions/workflows/gradle-publish.yml)
